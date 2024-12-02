@@ -13,6 +13,12 @@ All are used with latest versions
 1. Datasets
 2. Evaluate
 
+### Results
+
+All recorded results are saved in `/results` as json files.
+
+## How to run the scripts
+
 ### Go in to scripts folder
 
 ```
